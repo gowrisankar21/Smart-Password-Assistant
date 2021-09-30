@@ -2,10 +2,10 @@
 The project entitled “Smart Password Assistant” is a combination of an automated python project and an android application. The main purpose of this project is to increase security of wireless network to make them more secure and prevent external intervention.
 
 # List of contributors
-Anjana Krishna
-Dhanya Jose
-Gowri Sankar P
-Ramesh P R
+* Anjana Krishna
+* Dhanya Jose
+* Gowri Sankar P
+* Ramesh P R
 
 # Problem Statement and Personnas of the system
 Is your home network secure...?
