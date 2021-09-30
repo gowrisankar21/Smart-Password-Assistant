@@ -22,13 +22,13 @@ Theme:- "Sustainable development for better tomorrow"
 * The system is designed for GX router. GX and Dlink are the two routers who uses captcha for login. So for other users the captcha part can be removed and replace the coordinates accordingly as explained in the "main.py" python file.
 * Ensure that Pytesseract is installed in the system.
 * Import the following libraries:-
-         *Selenium
-         *Opencv
-         *Timer
-         *Pyautogui
-         *Clipboard
-         *Random
-         *Pytesseract
+..*Selenium
+..*Opencv
+..*Timer
+..*Pyautogui
+..*Clipboard
+..*Random
+..*Pytesseract
 * You must install the whatsapp desktop in your computer make sure it is pinned to the taskbar.
 * Update the broadcast list and images accordingly in the "photos" folder
 * Change the "captchaPath" to your local file saving path.
