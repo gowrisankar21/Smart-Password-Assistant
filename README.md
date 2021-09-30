@@ -19,7 +19,7 @@ _Smart-Password-Assistant will make you secure. Every security experts instructs
 **Hey now you are safe. You have the assistant with you. Go ahead....!**
 
 
-# Things you should take care of..
+# Instructions
 * You must download the "rockyou.txt" from the web and save it in the "Smart Password Assistant" folder.
 * The system is designed for GX router. GX and Dlink are the two routers who uses captcha for login. So for other users the captcha part can be removed and replace the coordinates accordingly as explained in the "main.py" python file.
 * Ensure that Pytesseract is installed in the system.
