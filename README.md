@@ -16,7 +16,7 @@ _Security and privacy are the two basic needs of every internet user. Each one h
 
 _Smart-Password-Assistant will make you secure. Every security experts instructs us to change our credentials subsequently. But well knowingly we ignore it because of the boring steps we have to go through during password change. But the Smart-Password-Assistant can easily make it possible for your wireless network. We just need to instruct the machine to update our password and to ensure a secondary security, system encrypts the password and only share the key with the user. The user only having the decrypting android application can access the network._ 
 
-Hey now you are safe. You have the assistant with you. Go ahead....!
+**Hey now you are safe. You have the assistant with you. Go ahead....!**
 
 
 # Things you should take care of..
